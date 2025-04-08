@@ -112,4 +112,10 @@ code {
     #instructions h3 {
         font-size: 1.2rem;
     }
+
+    ul img {
+        width: 100px;  /* Đặt kích thước ảnh là 100px chiều rộng */
+        height: auto;  /* Đảm bảo tỉ lệ ảnh không bị biến dạng */
+        border-radius: 5px; /* Thêm bo góc cho ảnh nếu muốn */
+    }
 }
